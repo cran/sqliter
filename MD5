@@ -1,0 +1,10 @@
+a567c10d29987612886ad1513691a802 *DESCRIPTION
+b3d4c1f7aa48baa950847375ce620316 *LICENSE
+7056c53ae6c3e815ad0e22853b4f0ba3 *NAMESPACE
+e1423ee9e81e7a4e195b2aaef3d472f8 *R/sqliter.R
+7de7889e5d661189f0f0ba6385a20ba4 *README.md
+cc54cb853c091e88e11a5ef03826104f *man/execute.Rd
+de2ff4a291fdd6ffbdd79cd7871ec539 *man/find_database.Rd
+56b4ec3bd4e0af77fb0cc9d830f583b3 *man/query-functions.Rd
+b7107ec7e9170cc0a26490329ab52155 *man/sqliter-package.Rd
+4311a4979d3f53ffa319b01b96c4471f *man/sqliter.Rd
